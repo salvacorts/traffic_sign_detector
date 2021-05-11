@@ -5,3 +5,8 @@
 ## Training
 
 ## Inference
+
+### Build Dockerfile
+```bash
+sudo docker build -t torch_detectron .
+```
