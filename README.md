@@ -1,4 +1,5 @@
 # Traffic Sign Detection with Jetson Nano
+![image](https://github.com/salvacorts/traffic_sign_detector/assets/8354290/9a90f5a1-5f0c-4c56-9c86-cd57e8ed3ba7)
 
 ## Introduction
 
